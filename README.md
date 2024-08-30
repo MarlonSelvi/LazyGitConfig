@@ -1,1 +1,3 @@
 # LazyGitConfig
+
+Hello
